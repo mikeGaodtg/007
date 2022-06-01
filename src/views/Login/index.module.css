@@ -1,0 +1,8 @@
+.wrap{
+    height: 100vh;
+    background-image:url("https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{text-align: center;}
